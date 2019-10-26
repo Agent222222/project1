@@ -1,12 +1,10 @@
 h1{
-
-    color:rgb(0, 0, 0) ;
-    background-color: yellow;
-    position: relative; 
-
+    color: red;
+    background-color: grey;
 }
-h2{
-    color:rgb(0, 0, 0) ;
-    background-color: green;
-    position: relative;    
+footer{
+  background-color: rgb(253, 6, 6);
+}
+input[type="checkbox"]:checked{
+  background-color: green;
 }
